@@ -1,4 +1,4 @@
-public class NumberTwo_AddTwoNumbers {
+/*public class NumberTwo_AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, Listnode l2){
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
@@ -21,7 +21,7 @@ public class NumberTwo_AddTwoNumbers {
             current.next = new ListNode(sum % 10);
             current = current.next;
         }
-        //dummy-node is just a placeholder, thats why dummy.next is our final return
+        //dummy-node is just a placeholder, that's why dummy.next is our final return
         return dummy.next;
     }
-}
+}*/
