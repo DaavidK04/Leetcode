@@ -19,6 +19,8 @@ This repository contains my solutions to LeetCode problems. The solutions are wr
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
+1
+
 ## 🛠️ Setup & Usage
 If you want to run the solutions yourself:
 ```bash
