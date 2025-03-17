@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![LeetCode Badge](https://img.shields.io/badge/Solved-2-blue?style=flat-square&logo=leetcode)
+![LeetCode Badge](https://img.shields.io/badge/Solved-3-blue?style=flat-square&logo=leetcode)
 
 This repository contains my solutions to LeetCode problems. The solutions are written in various programming languages and organized by difficulty and category.
 
@@ -16,7 +16,7 @@ This repository contains my solutions to LeetCode problems. The solutions are wr
 | Difficulty | Number of Problems Solved |
 |------------|--------------------------|
 | 🟢 Easy | 1 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 
 
