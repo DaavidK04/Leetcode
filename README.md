@@ -29,6 +29,10 @@ cd leetcode-solutions
 
 # If using Python, for example:
 python3 solution.py
+
+# If using Java:
+javac solution.java
+java solution
 ```
 
 ## 📚 Resources
