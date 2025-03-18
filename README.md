@@ -30,7 +30,7 @@ cd leetcode-solutions
 # If using Python, for example:
 python3 solution.py
 
-# If using Java:
+# If using Java, you first have to compile the Java File:
 javac solution.java
 java solution
 ```
